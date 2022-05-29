@@ -1,11 +1,11 @@
 {
     "cmake.mingwSearchDirs": [
-        "${env:USERPROFILE}\\Downloads\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\bin"
+        "D:\\Softwares\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin"
     ],
     "cmake.generator": "MinGW Makefiles",
-    "cmake.cmakePath": "${env:USERPROFILE}\\Downloads\\cmake-3.22.2-windows-x86_64\\bin\\cmake.exe",
+    "cmake.cmakePath": "D:\\Softwares\\cmake-3.23.0-rc1-windows-x86_64\\bin\\cmake.exe",
     "cmake.configureSettings": {
-        "CMAKE_MAKE_PROGRAM": "${env:USERPROFILE}\\Downloads\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\bin\\mingw32-make.exe"
+        "CMAKE_MAKE_PROGRAM": "D:\\Softwares\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\mingw32-make.exe"
     },
     "files.associations": {
         "array": "cpp",

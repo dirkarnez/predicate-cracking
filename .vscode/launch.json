@@ -8,14 +8,14 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}\\build\\solver.exe",
+            "program": "${workspaceFolder}\\build\\predicate-cracking.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "${env:USERPROFILE}\\Downloads\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\bin\\gdb.exe",
+            "miDebuggerPath": "D:\\Softwares\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\gdb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",

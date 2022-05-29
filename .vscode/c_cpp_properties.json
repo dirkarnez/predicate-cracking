@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "D:\\Code Projects\\cpp-libraries\\boost-1.78.0-windows-2019-mingw-static\\**"
             ],
             "defines": [
                 "_DEBUG",
@@ -11,7 +12,7 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.18362.0",
-            "compilerPath": "${env:USERPROFILE}\\Downloads\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\bin\\gcc.exe",
+            "compilerPath": "D:\\Softwares\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "${default}"
