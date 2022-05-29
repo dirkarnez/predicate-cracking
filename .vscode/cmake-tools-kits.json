@@ -1,0 +1,16 @@
+{
+    "name": "Mingw64 GCC 8.1.0",
+    "compilers": {
+      "C": "${env:USERPROFILE}\\Downloads\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\bin\\gcc.exe",
+      "CXX": "${env:USERPROFILE}\\Downloads\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\bin\\g++.exe"
+    },
+    "preferredGenerator": {
+      "name": "MinGW Makefiles",
+      "platform": "x64"
+    },
+    "environmentVariables": {
+      "PATH": "${env:USERPROFILE}\\Downloads\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\bin"
+    }
+  }
+
+  
